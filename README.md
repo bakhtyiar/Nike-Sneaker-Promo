@@ -2,7 +2,7 @@
 ## Hero-section layout
 ![preview image](./github_preview.png)
 
-### Used pure
+### Used native
 - HTML  
 - CSS  
 
