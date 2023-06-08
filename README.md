@@ -15,4 +15,4 @@
 1. open cli
 2. `git clone https://github.com/bakhtyiar/Nike-Sneaker-Promo.git`
 3. `cd Nike-Sneaker-Promo`
-4. open index.html
+4. `index.html`
