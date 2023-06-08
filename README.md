@@ -13,6 +13,6 @@
 3. In downloaded ZIP open index.html
 ### Variant 2
 1. open cli
-2. > git clone https://github.com/bakhtyiar/Nike-Sneaker-Promo.git
-3. > cd Nike-Sneaker-Promo-Hero-section
+2. `git clone https://github.com/bakhtyiar/Nike-Sneaker-Promo.git`
+3. `cd Nike-Sneaker-Promo`
 4. open index.html
